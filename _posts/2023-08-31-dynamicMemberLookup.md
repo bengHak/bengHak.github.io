@@ -3,7 +3,7 @@ layout: post
 
 title: \@dynamicMemberLookup 이란?
 
-subtitle: -
+subtitle: subtitle
 
 tags: [Swift, Xcode, language]
 
