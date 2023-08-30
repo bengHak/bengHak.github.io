@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: @dynamicMemberLookup 이란?
+title: \@dynamicMemberLookup 이란?
 
 subtitle: -
 
