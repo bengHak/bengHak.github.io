@@ -12,8 +12,7 @@ comments: true
 use_math: true
 ---
 
-# @dynamicMemberLookup
-> 참조: https://developer.apple.com/documentation/foundation/attributedynamiclookup
+## @dynamicMemberLookup
 
 `@dynamicMemberLookup`는 Swift 5.1부터 도입된 속성 래퍼(property wrapper) 중 하나로, 런타임에서 속성 및 서브스크립트 멤버에 대한 동적 접근을 허용하는 기능을 제공합니다. 이를 통해 코드의 가독성을 높이고 편의성을 개선할 수 있습니다.
 
@@ -41,3 +40,5 @@ print(dynamicInstance.anotherProperty)  // 출력: "You accessed anotherProperty
 ```
 
 이처럼, `@dynamicMemberLookup` 속성을 사용하면 컴파일 시점에 정의하지 않은 멤버에 동적으로 접근할 수 있습니다. 이는 특정 API나 라이브러리에서 유연하게 데이터나 속성에 접근할 때 유용할 수 있습니다.
+
+참조: https://developer.apple.com/documentation/foundation/attributedynamiclookup
