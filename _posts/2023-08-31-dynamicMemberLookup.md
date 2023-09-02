@@ -40,3 +40,4 @@ print(dynamicInstance.anotherProperty)  // 출력: "You accessed anotherProperty
 이처럼, `@dynamicMemberLookup` 속성을 사용하면 컴파일 시점에 정의하지 않은 멤버에 동적으로 접근할 수 있습니다. 이는 특정 API나 라이브러리에서 유연하게 데이터나 속성에 접근할 때 유용할 수 있습니다.
 
 [dynamicMemberLookup 문서 링크 ](https://developer.apple.com/documentation/foundation/attributedynamiclookup)
+[더 보면 좋을  dynamicMemberLookup 블로그 링크](https://minsone.github.io/programming/swift-ribs-access-dependency-property-using-dynamic-member-lookup)
